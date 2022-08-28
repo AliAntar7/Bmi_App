@@ -33,7 +33,7 @@ class _FirstScreenState extends State<FirstScreen> {
                               height: 200.0,
                             ),
                             SizedBox(
-                              height: 15.0,
+                              height: 18.0,
                             ),
                             Text(
                               'Calculator App',
